@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SMSBomber</string>
+    <string name="envoyer">Envoyer</string>
+    <string name="type_the_number">Type the number</string>
+    <string name="message">Message</string>
+    <string name="num_ro_de_t_l_phone">Numéro de Téléphone</string>
+</resources>
